@@ -1,4 +1,6 @@
-﻿namespace DataStructuresv2
+﻿using DataStructurev2;
+
+namespace DataStructuresv2
 {
     internal class Program
     {
@@ -8,8 +10,10 @@
             //Arrays_Exam_marks();
             //Arrays_rainfall();
             //Arrays_Multi_marks();
-            //Intro_to_lists.Intro_Lists_Main();
-            //Records_intro.Main_Records();
+            //Intro_to_lists.Intro_Lists_Main(); not working on this version
+            //Records_intro.Main_Records(); not working 
+            Evil_Bases_Record.Ebases_main();
+
         }
 
 
